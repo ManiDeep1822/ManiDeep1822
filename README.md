@@ -1,6 +1,6 @@
 <!-- TYPING INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=600&color=00E0FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Manideep+👋;MERN+Stack+Developer;System+Monitoring+Dashboard+Builder;Real-Time+Web+App+Developer;Always+Learning+Always+Building+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=600&color=00E0FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Indla+Mohana+Venkata+Mani+Deep+👋;MERN+Stack+Developer;Cybersecurity+Enthusiast;Real-Time+Web+App+Developer;Always+Learning+Always+Building+🚀" />
 </p>
 
 ---
@@ -9,10 +9,10 @@
 I’m a developer focused on building **fast, modern, real-time web applications**.  
 Currently learning and growing in the **MERN Stack** ecosystem.
 
-- 🔭 Working on: **ProcessOptima – System Process Analyzer**  
 - 🌱 Learning: **MongoDB, Express.js, React.js, Node.js (MERN)**  
+- 🛡 Cybersecurity Enthusiast – exploring system security & threat analysis  
 - 🧩 Interests: Dashboards, system utilities, web performance  
-- 🎯 Goal: Become a strong **full-stack web developer**  
+- 🎯 Goal: Become a strong **full-stack + cybersecurity-aware developer**  
 - 📫 Email: **indlachinnu123@gmail.com**
 
 ---
@@ -20,8 +20,10 @@ Currently learning and growing in the **MERN Stack** ecosystem.
 # 🧰 Tech Stack
 
 ### 🚀 Languages
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?logo=javascript&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&style=for-the-badge)
+![C](https://img.shields.io/badge/C-283593?logo=c&style=for-the-badge)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&style=for-the-badge)
 
 ### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?logo=html5&style=for-the-badge)
@@ -63,13 +65,6 @@ A real-time dashboard that shows:
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManiDeep1822&layout=compact&theme=react&hide_border=true" />
-</p>
-
----
-
-# 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ManiDeep1822&theme=discord&no-frame=true&row=1&margin-w=20">
 </p>
 
 ---
