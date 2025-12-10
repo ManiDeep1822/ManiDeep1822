@@ -1,28 +1,23 @@
-<!-- HEADER ANIMATION -->
-<p align="center">
-  <img src="https://github.com/ManiDeep1822/ManiDeep1822/blob/main/assets/header.gif" alt="banner"/>
-</p>
-
 <!-- TYPING INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=600&color=00E0FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Manideep+👋;AI+Engineer+%26+MERN+Stack+Developer;LLM+Builder+%7C+Dataset+Architect;Real-Time+System+Dashboard+Creator;Always+Building+Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=600&color=00E0FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Manideep+👋;MERN+Stack+Developer;System+Monitoring+Dashboard+Builder;Real-Time+Web+App+Developer;Always+Learning+Always+Building+🚀" />
 </p>
 
 ---
 
-# ⚡ **About Me**
-I'm a developer who blends **AI**, **full-stack engineering**, and **system monitoring** into powerful applications.  
-Currently building dashboards, LLMs, datasets, and real-time monitoring systems.
+# ⚡ About Me
+I’m a developer focused on building **fast, modern, real-time web applications**.  
+Currently learning and growing in the **MERN Stack** ecosystem.
 
-- 🔭 Working on: **ProcessOptima – AI System Process Analyzer**  
-- 🤖 Exploring: **AI Agents, LLM fine-tuning, realtime inference**  
-- 🧠 Learning: **MERN Stack | Prompt Engineering | Data Pipelines**  
-- 🎯 Goal: Become a **high-impact AI + Full-Stack Engineer**  
-- 💬 Ask me about: AI systems, dashboards, LLMs, datasets  
+- 🔭 Working on: **ProcessOptima – System Process Analyzer**  
+- 🌱 Learning: **MongoDB, Express.js, React.js, Node.js (MERN)**  
+- 🧩 Interests: Dashboards, system utilities, web performance  
+- 🎯 Goal: Become a strong **full-stack web developer**  
+- 📫 Email: **indlachinnu123@gmail.com**
 
 ---
 
-# 🧰 **Tech Stack**
+# 🧰 Tech Stack
 
 ### 🚀 Languages
 ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?logo=javascript&style=for-the-badge)
@@ -37,11 +32,7 @@ Currently building dashboards, LLMs, datasets, and real-time monitoring systems.
 ### 🖥 Backend
 ![Node](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&style=for-the-badge)
 ![Express](https://img.shields.io/badge/Express-000?logo=express&style=for-the-badge)
-
-### 🤖 AI / ML
-![LLM](https://img.shields.io/badge/LLMs-412991?logo=openai&style=for-the-badge)
-![Datasets](https://img.shields.io/badge/Datasets-4C8EDA?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-20232A?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&style=for-the-badge)
 
 ### 🛠 Tools
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?logo=visualstudiocode&style=for-the-badge)
@@ -50,19 +41,20 @@ Currently building dashboards, LLMs, datasets, and real-time monitoring systems.
 
 ---
 
-# 🔥 **Featured Projects**
+# 🔥 Featured Project
 
-## 📊 ProcessOptima – AI System Process Analyzer  
-A real-time monitoring dashboard with:
-- CPU & Memory trend charts  
-- AI anomaly scoring engine  
-- Real-time alerts  
-- Recommendations engine  
-- Data export system  
+## 📊 ProcessOptima – System Process Analyzer  
+A real-time dashboard that shows:
+- CPU & Memory usage charts  
+- Live system metrics  
+- Process table with highlighted activity  
+- Alert system  
+- Clean UI with smooth animations  
+- Exportable JSON reports  
 
 ---
 
-# 📈 **Advanced GitHub Stats**
+# 📈 GitHub Stats (Always working)
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=ManiDeep1822&show_icons=true&theme=react&hide_border=true" />
@@ -82,21 +74,9 @@ A real-time monitoring dashboard with:
 
 ---
 
-# 🌌 **Contribution Graph Animation**
+# 🌌 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManiDeep1822&theme=react-dark&hide_border=true&area=true">
-</p>
-
----
-
-# 🎨 **Aesthetic Section (Particles, Waves, Neon)**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-animated-waves/master/waves.svg" width="100%">
 </p>
 
 ---
@@ -106,7 +86,7 @@ A real-time monitoring dashboard with:
   <a href="https://github.com/ManiDeep1822">
     <img src="https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge">
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:indlachinnu123@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge">
   </a>
 </p>
@@ -114,5 +94,5 @@ A real-time monitoring dashboard with:
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&color=00E0FF&center=true&vCenter=true&width=800&lines=Thank+You+for+Visiting+⚡;Let's+Build+Amazing+Things+Together+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&color=00E0FF&center=true&vCenter=true&width=800&lines=Thanks+For+Visiting+✨;Let's+Build+Something+Amazing+Together+🚀">
 </p>
