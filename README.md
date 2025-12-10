@@ -11,7 +11,7 @@ Currently learning and growing in the **MERN Stack** ecosystem.
 - 🌱 Learning: **MongoDB, Express.js, React.js, Node.js (MERN)**  
 - 🛡 Cybersecurity Enthusiast – exploring system security & threat analysis  
 - 🧩 Interests: Dashboards, system utilities, web performance  
-- 🎯 Goal: Become a strong **full-stack + cybersecurity-aware developer**  
+- 🎯 Goal: Become a strong **MERN Full-Stack Developer**  
 - 📫 Email: **indlachinnu123@gmail.com**
 
 ---
