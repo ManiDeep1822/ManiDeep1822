@@ -1,4 +1,3 @@
-<!-- TYPING INTRO -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=600&color=00E0FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Indla+Mohana+Venkata+Mani+Deep+👋;MERN+Stack+Developer;Cybersecurity+Enthusiast;Real-Time+Web+App+Developer;Always+Learning+Always+Building+🚀" />
 </p>
@@ -56,7 +55,7 @@ A real-time dashboard that shows:
 
 ---
 
-# 📈 GitHub Stats (Always working)
+# 📈 GitHub Stats
 
 <p align="center">
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=ManiDeep1822&theme=react&hide_border=true" />
