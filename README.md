@@ -1,57 +1,87 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=600&color=00E0FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Indla+Mohana+Venkata+Mani+Deep+👋;MERN+Stack+Developer;Cybersecurity+Enthusiast;Real-Time+Web+App+Developer;Always+Learning+Always+Building+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=600&color=00E0FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Mani+Deep+👋;Computer+Science+Student;MERN+Stack+Enthusiast;Cybersecurity+Enthusiast;Building+Real-World+Projects+🚀;Always+Learning+Always+Building" />
 </p>
 
 ---
 
 # ⚡ About Me
-I’m a developer focused on building **fast, modern, real-time web applications**.  
-Currently learning and growing in the **MERN Stack** ecosystem.
 
-- 🌱 Learning: **MongoDB, Express.js, React.js, Node.js (MERN)**  
-- 🛡 Cybersecurity Enthusiast – exploring system security & threat analysis  
-- 🧩 Interests: Dashboards, system utilities, web performance  
-- 🎯 Goal: Become a strong **MERN Full-Stack Developer**  
-- 📫 Email: **indlachinnu123@gmail.com**
+I'm a Computer Science student passionate about building modern web applications and exploring emerging technologies.
+
+* 🎓 B.Tech CSE Student at Lovely Professional University
+* 🌱 Currently learning the MERN Stack ecosystem
+* 🛡 Interested in Cybersecurity and System Security
+* 🤖 Exploring AI, Agentic Systems, and Web Technologies
+* 🚀 Building real-world projects to strengthen software development skills
+* 🎯 Goal: Become a highly skilled Full-Stack Engineer
+* 📫 Email: **[indlachinnu123@gmail.com](mailto:indlachinnu123@gmail.com)**
+
+---
+
+# 🔥 Featured Project
+
+## 🍔 CampusEats – Campus Food Delivery Platform
+
+A full-stack food delivery ecosystem built specifically for university campuses.
+
+### Key Features
+
+* Multi-role Authentication System
+* Real-Time Order Tracking
+* Vendor Management
+* Delivery Partner Workflow
+* Razorpay Payment Integration
+* Admin Dashboard
+
+### Tech Stack
+
+React.js • Node.js • Express.js • MongoDB • Socket.IO • Razorpay
+
+---
+
+## 🪑 Sri Adithya Furniture
+
+A real-world business website developed for a furniture business.
+
+* Responsive Design
+* WhatsApp Integration
+* Performance Optimization
+* Custom Domain Deployment
+
+---
+
+## 📊 ProcessOptima
+
+Real-time system monitoring dashboard.
+
+* Live CPU & Memory Tracking
+* Process Monitoring
+* Alert System
+* JSON Report Export
 
 ---
 
 # 🧰 Tech Stack
 
 ### 🚀 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&style=for-the-badge)
-![C](https://img.shields.io/badge/C-283593?logo=c&style=for-the-badge)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&style=for-the-badge)
+
+JavaScript • Python • Java • C • C++
 
 ### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML-E34F26?logo=html5&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?logo=css3&style=for-the-badge)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&style=for-the-badge)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&style=for-the-badge)
+
+React.js • HTML5 • CSS3 • Vite
 
 ### 🖥 Backend
-![Node](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&style=for-the-badge)
-![Express](https://img.shields.io/badge/Express-000?logo=express&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&style=for-the-badge)
+
+Node.js • Express.js
+
+### 🗄 Database
+
+MongoDB
 
 ### 🛠 Tools
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?logo=visualstudiocode&style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&style=for-the-badge)
-![Github](https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge)
 
----
-
-# 🔥 Featured Project
-
-## 📊 ProcessOptima – System Process Analyzer  
-A real-time dashboard that shows:
-- CPU & Memory usage charts  
-- Live system metrics  
-- Process table with highlighted activity  
-- Alert system  
-- Clean UI with smooth animations  
-- Exportable JSON reports  
+Git • GitHub • VS Code • Postman
 
 ---
 
@@ -64,6 +94,7 @@ A real-time dashboard that shows:
 ---
 
 # 🌌 Contribution Graph
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManiDeep1822&theme=react-dark&hide_border=true&area=true">
 </p>
@@ -71,10 +102,16 @@ A real-time dashboard that shows:
 ---
 
 # 📫 Connect With Me
+
 <p align="center">
   <a href="https://github.com/ManiDeep1822">
     <img src="https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge">
   </a>
+
+  <a href="https://linkedin.com/in/manideep-developer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge">
+  </a>
+
   <a href="mailto:indlachinnu123@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge">
   </a>
@@ -83,5 +120,5 @@ A real-time dashboard that shows:
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&color=00E0FF&center=true&vCenter=true&width=800&lines=Thanks+For+Visiting+✨;Let's+Build+Something+Amazing+Together+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&color=00E0FF&center=true&vCenter=true&width=800&lines=Building+Projects+That+Solve+Real+Problems+🚀;Learning+One+Commit+At+A+Time+💻">
 </p>
