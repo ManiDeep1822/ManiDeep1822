@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Mani Deep 👋
+# Hi, I'm Indla Mohana Venkata Mani Deep 👋
 
 **Software Engineer · Full-Stack Developer · AI Enthusiast**
 
