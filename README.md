@@ -2,7 +2,7 @@
 
 # Hi, I'm Indla Mohana Venkata Mani Deep 👋
 
-**Software Engineer · Full-Stack Developer**
+**Software Engineer · Full-Stack Developer · AI Enthusiast**
 
 B.Tech CSE @ Lovely Professional University · India 🇮🇳
 
@@ -14,11 +14,9 @@ B.Tech CSE @ Lovely Professional University · India 🇮🇳
 
 ---
 
-I'm a Computer Science undergraduate who builds real-world software — from campus-scale delivery platforms to client-facing business websites. I care about clean architecture, meaningful user experience, and shipping things that actually work.
+I'm a Computer Science undergraduate who builds real-world software — from campus-scale delivery platforms to AI-powered applications. I care about clean architecture, meaningful user experience, and shipping things that actually work.
 
-Currently focused on full-stack development with the MERN stack and strengthening my data structures, algorithms, and system design fundamentals. I founded **WAIVE** (Web AI Integrated Virtual Engineering) at LPU, where I led a team building at the intersection of web and AI.
-
-**Open to Software Engineer internship opportunities.**
+Currently focused on full-stack development with the MERN stack, exploring agentic AI systems, and learning cybersecurity fundamentals. I founded **WAIVE** (Web AI Integrated Virtual Engineering) at LPU, where I led a team building at the intersection of web and AI.
 
 ---
 
@@ -26,7 +24,7 @@ Currently focused on full-stack development with the MERN stack and strengthenin
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,python,java,c,cpp&theme=dark" />
 
 **Frontend**
 
@@ -34,7 +32,7 @@ Currently focused on full-stack development with the MERN stack and strengthenin
 
 **Backend & Database**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
 
 **Tools**
 
@@ -87,9 +85,10 @@ Fully responsive portfolio showcasing projects, skills, and experience across de
 ## 🧭 Currently Working On
 
 - Advanced React patterns and performance optimisation
-- Data structures, algorithms, and system design fundamentals
-- TypeScript rigor across full-stack projects
-- Deepening backend fundamentals — REST API design, authentication, and database modeling
+- System design fundamentals
+- AI-powered application development — RAG, agents, LLMs
+- Cybersecurity concepts and secure software practices
+- Building a small language model from scratch with PyTorch
 
 ---
 
